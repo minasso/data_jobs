@@ -5,6 +5,8 @@ Analysis of jobs in data analysis and data science
 
 Data taken from kaggle: https://www.kaggle.com/andrewmvd/data-analyst-jobs  &  https://www.kaggle.com/andrewmvd/data-scientist-jobs
 
+Data analysis is done to try and clean the data and prepare it for machine learning
+
 Project Organization
 ------------
 
